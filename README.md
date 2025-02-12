@@ -1,3 +1,7 @@
+# !!! 2025-FEB-12: THE EXPERIMENT IS OVER !!!
+
+All my Intel Mac hardware is dead, and I have neither time nor patience to dedicate any further to this project. I'm therefore archiving this entire project, in case anyone finds what's still here of any use.
+
 **UPDATE 2022-Feb-25**: Apologies, I forgot that Homebrew hardcodes a "master" branch for `homebrew/core`, so I've had to rename the original `main` branch accordingly. If you installed my tap before the mentioned date, please repeat the installation steps below to reinstall my tap.
 
 ---
